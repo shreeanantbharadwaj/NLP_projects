@@ -1,6 +1,3 @@
-Certainly! Here's the content formatted for a README.md file:
-
-markdown
 Copy code
 # Named Entity Recognition (NER) with LSTM
 
