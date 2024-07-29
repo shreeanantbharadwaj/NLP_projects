@@ -1,4 +1,3 @@
-Copy code
 # Named Entity Recognition (NER) with LSTM
 
 This project demonstrates how to build and train a Named Entity Recognition (NER) model using LSTM networks. The model is trained on a dataset of text annotated with named entities, and the trained model is used to recognize entities in new text. This repository includes data preprocessing, model training, and testing steps.
